@@ -20,6 +20,8 @@ Step 1: Select top view and create sketch  Draw three circles with diameter 42mm
 
 
 Step 2: Draw two circles of diameter 30mm and 40mm at the distance of 70mm from origin  Draw another two circles of diameter 30mm and 42mm with a distance of 50mm from the centre  and 60mm from the 40mm circle  Draw two circles of diameter  30mm and 42mm with a distance of 50mm from the centre  and 60mm from the 40mm circle 
+
+
 Step 3  Draw a line and make it tangent to the circles Use trim option to remove excess part  Draw a circle of diameter 40mm and make it tangent to 42mm circle and 80mm circle and trim  excess 
 
 <img width="312" height="432" alt="image" src="https://github.com/user-attachments/assets/f89e35e4-76e8-4c39-ba64-06861111cd42" />
