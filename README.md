@@ -39,7 +39,7 @@ Use mirror option and select the parts to be mirrored.Extrude the diagram to 20m
 
 
 ## Step 5
-After finishing select design and drawing from design and place the front view,top view and side view  Sketch
+After finishing select design and drawing from design and place the front view,top view and side view  
 
 <img width="317" height="362" alt="image" src="https://github.com/user-attachments/assets/be0f6057-d47d-4358-8e12-6391e6ab724b" />
 
