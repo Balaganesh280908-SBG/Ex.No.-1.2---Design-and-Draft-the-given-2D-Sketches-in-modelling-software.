@@ -13,11 +13,11 @@
 ## Step 1: 
 Select top view and create sketch  Draw three circles with diameter 42mm,64mm,80mm  Draw a line from the circle 64mm to 42mm and trim the excess part Select circular pattern and make 6 faces 
 
-<img width="328" height="502" alt="image" src="https://github.com/user-attachments/assets/14797ece-716c-4850-a7c0-831f3c7850b1" />
+# <img width="328" height="502" alt="image" src="https://github.com/user-attachments/assets/14797ece-716c-4850-a7c0-831f3c7850b1" />
 
-<img width="197" height="257" alt="image" src="https://github.com/user-attachments/assets/869a6618-1a7f-4422-aa9e-7b93aa22008e" />
+# <img width="197" height="257" alt="image" src="https://github.com/user-attachments/assets/869a6618-1a7f-4422-aa9e-7b93aa22008e" />
 
-<img width="292" height="167" alt="image" src="https://github.com/user-attachments/assets/237fc53e-b0f2-49b3-a4eb-580ec495c5d6" />
+# <img width="292" height="167" alt="image" src="https://github.com/user-attachments/assets/237fc53e-b0f2-49b3-a4eb-580ec495c5d6" />
 
 
 ## Step 2:
@@ -32,20 +32,17 @@ Draw a line and make it tangent to the circles Use trim option to remove excess 
 ## Step 4 
 Use mirror option and select the parts to be mirrored.Extrude the diagram to 20mm  
 
-<img width="292" height="140" alt="image" src="https://github.com/user-attachments/assets/66309b00-8e6c-4691-a453-8780d5b8bbc0" />
+# <img width="292" height="140" alt="image" src="https://github.com/user-attachments/assets/66309b00-8e6c-4691-a453-8780d5b8bbc0" />
 
-
-<img width="242" height="97" alt="image" src="https://github.com/user-attachments/assets/27181749-0264-40f7-b84c-c891ca2b8a79" />
+# <img width="242" height="97" alt="image" src="https://github.com/user-attachments/assets/27181749-0264-40f7-b84c-c891ca2b8a79" />
 
 
 ## Step 5
 After finishing select design and drawing from design and place the front view,top view and side view  
 
-<img width="317" height="362" alt="image" src="https://github.com/user-attachments/assets/be0f6057-d47d-4358-8e12-6391e6ab724b" />
+# <img width="317" height="362" alt="image" src="https://github.com/user-attachments/assets/be0f6057-d47d-4358-8e12-6391e6ab724b" />
 
-
-
-<img width="456" height="502" alt="image" src="https://github.com/user-attachments/assets/82428096-ccb7-44ca-bbb9-3e584d53c07e" />
+# <img width="456" height="502" alt="image" src="https://github.com/user-attachments/assets/82428096-ccb7-44ca-bbb9-3e584d53c07e" />
 
 
  
