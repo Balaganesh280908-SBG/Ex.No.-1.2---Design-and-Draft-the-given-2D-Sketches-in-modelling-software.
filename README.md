@@ -11,7 +11,18 @@
  
  ## PROCEDURE
 ## Step 1: 
-Select top view and create sketch  Draw three circles with diameter 42mm,64mm,80mm  Draw a line from the circle 64mm to 42mm and trim the excess part Select circular pattern and make 6 faces 
+Open Autodesk Fusion 360 and create a new design file.Select the Top view and click on Create Sketch.
+
+
+
+Draw three concentric circles with diameters of 42 mm, 64 mm and 80 mm.Draw a line connecting the 64 mm circle to the 42 mm circle.Use the Trim command to remove the unwanted portion.
+
+
+
+Select the Circular Pattern option from the Sketch Create menu.Select the required object and choose the centre point of the sketch.
+
+
+Set the pattern quantity to 6 to create six equally spaced faces.Check the sketch and ensure that the pattern is properly arranged.
 
 # <img width="328" height="502" alt="image" src="https://github.com/user-attachments/assets/14797ece-716c-4850-a7c0-831f3c7850b1" />
 
@@ -21,24 +32,61 @@ Select top view and create sketch  Draw three circles with diameter 42mm,64mm,80
 
 
 ## Step 2:
-Draw two circles of diameter 30mm and 40mm at the distance of 70mm from origin  Draw another two circles of diameter 30mm and 42mm with a distance of 50mm from the centre  and 60mm from the 40mm circle  Draw two circles of diameter  30mm and 42mm with a distance of 50mm from the centre  and 60mm from the 40mm circle 
+Draw two circles with diameters of 30 mm and 40 mm at a distance of 70 mm from the origin.
 
 
+
+Draw another two circles with diameters of 30 mm and 42 mm at a distance of 50 mm from the centre and 60 mm from the 40 mm circle, as mentioned in the original procedure.
+
+
+
+Use the Sketch Dimension tool to enter the required measurements.Check the position of all circles according to the given sketch.
+
+
+
+Make sure that the circles are properly aligned before proceeding to the next step.
 ## Step 3 
-Draw a line and make it tangent to the circles Use trim option to remove excess part  Draw a circle of diameter 40mm and make it tangent to 42mm circle and 80mm circle and trim  excess 
+Draw a line and make it tangent to the required circles.Use the Trim option to remove the excess portions.Draw a circle with a diameter of 40 mm.
+
+
+
+Apply the Tangent constraint between the 40 mm circle, 42 mm circle and 80 mm circle.Trim the unwanted portions to obtain the required shape.
+
+
+
+Check whether the curves are connected smoothly.Compare the completed profile with the given reference sketch.
 
 <img width="312" height="432" alt="image" src="https://github.com/user-attachments/assets/f89e35e4-76e8-4c39-ba64-06861111cd42" />
 
 ## Step 4 
-Use mirror option and select the parts to be mirrored.Extrude the diagram to 20mm  
+Select the Mirror option from the Sketch menu.Select the required portions of the sketch to be mirrored.
 
+
+
+Choose the appropriate centre line as the Mirror Line.Apply the Mirror command and check whether both sides are properly aligned.
+
+
+
+After completing the sketch, click Finish Sketch.Select the required closed profile and choose the Extrude command.
+
+
+
+Enter the extrusion distance as 20 mm.Check the 3D model to ensure that the required shape is obtained.
 # <img width="292" height="140" alt="image" src="https://github.com/user-attachments/assets/66309b00-8e6c-4691-a453-8780d5b8bbc0" />
 
 # <img width="242" height="97" alt="image" src="https://github.com/user-attachments/assets/27181749-0264-40f7-b84c-c891ca2b8a79" />
 
 
 ## Step 5
-After finishing select design and drawing from design and place the front view,top view and side view  
+After completing the 3D model, go to the Design workspace.Select Drawing and click on From Design.Choose the required drawing settings.Select ISO standard, millimetre units and A3 sheet size.
+
+
+
+Place the front view, top view and side view on the drawing sheet.Arrange all the views properly with suitable spacing.Use the Dimension tool to add the required measurements.
+
+
+
+Check that all views and dimensions are clearly visible.Finally, save the completed drawing.
 
 # <img width="317" height="362" alt="image" src="https://github.com/user-attachments/assets/be0f6057-d47d-4358-8e12-6391e6ab724b" />
 
